@@ -2,8 +2,9 @@
 
 # Anggris
 
-**IT student at PENS**  
-Building apps, automation, and open-source fixes.
+**IT student @ PENS**
+
+I build stuff. Apps, automations, the occasional open-source rabbit hole.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ratatulieoi&style=flat-square&color=0f172a)](https://github.com/ratatulieoi)
 [![GitHub followers](https://img.shields.io/github/followers/ratatulieoi?style=flat-square)](https://github.com/ratatulieoi?tab=followers)
@@ -11,58 +12,35 @@ Building apps, automation, and open-source fixes.
 
 </div>
 
-## About
+---
 
-I like building things that actually run.
+## hey
 
-Most of what I touch lives somewhere between:
-- web apps
-- backend APIs
-- automation
-- open source
-- experimental side quests
+I'm Anggris. I spend most of my time writing code that actually does something — web apps, backend services, small automations, weird side projects that go nowhere but teach me a lot.
 
-Right now I am focused on writing cleaner code, contributing more seriously to open source, and building projects that feel real instead of just academic.
+Lately I've been putting more effort into open source. Not just starring repos and moving on, but actually digging in — fixing things, improving docs, picking up stale PRs, doing the unglamorous stuff that makes projects less painful to use.
 
-## Featured work
+It's slow work but it compounds.
 
-- [**BOVINE-SCALE**](https://github.com/ratatulieoi/BOVINE-SCALE)  
-  Computer vision project for livestock body detection and weight estimation.
+## what I've been touching lately
 
-- [**aureus-mobile**](https://github.com/ratatulieoi/aureus-mobile)  
-  Mobile app work in TypeScript.
+- bug fixes and config issues people ignore
+- docs that actually explain things
+- follow-up on PRs that lost momentum
+- small improvements that are easy to review and merge
 
-- [**Enode**](https://github.com/ratatulieoi/Enode)  
-  TypeScript project.
+Trying to shift more of that toward real code contributions.
 
-- [**typingsucks**](https://github.com/ratatulieoi/typingsucks)  
-  Rust side quest.
+## stack
 
-- [**expresbasic**](https://github.com/ratatulieoi/expresbasic)  
-  Express REST API work from framework workshop practice.
+`TypeScript` `JavaScript` `Python` `Rust` `HTML/CSS`
+`Express` `React` `Next.js`
 
-- [**kendaraan-api**](https://github.com/ratatulieoi/kendaraan-api)  
-  CRUD REST API with upload handling and auth-related practice.
-
-## Open source
-
-Recent contribution trail includes:
-- bug and config fixes
-- docs and onboarding improvements
-- follow-up work on active PRs
-- small public repo improvements that are easy to verify and ship
-
-I am pushing that harder toward code-first contributions.
-
-## Tech
-
-`TypeScript` `JavaScript` `Python` `Rust` `HTML/CSS` `Express` `React` `Next.js`
-
-## GitHub stats
+## numbers
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=ratatulieoi&show_icons=true&theme=transparent&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratatulieoi&layout=compact&theme=transparent&hide_border=true" />
 </div>
 
-> I like simple things that work, and I respect code that earns its keep.
+<div align="center"><sub>simple things that work > clever things that don't</sub></div>
