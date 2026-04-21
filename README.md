@@ -1,7 +1,7 @@
 <div align="center">
 
 # Anggris
-I break things, fix them(not rlly), then break them again(real).
+im a 12 ounce steak 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ratatulieoi&style=flat-square&color=0f172a)](https://github.com/ratatulieoi)
 [![GitHub followers](https://img.shields.io/github/followers/ratatulieoi?style=flat-square)](https://github.com/ratatulieoi?tab=followers)
