@@ -1,7 +1,7 @@
 <div align="center">
 
 # Anggris
-im a 12 ounce steak 
+i love goth girls
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ratatulieoi&style=flat-square&color=0f172a)](https://github.com/ratatulieoi)
 [![GitHub followers](https://img.shields.io/github/followers/ratatulieoi?style=flat-square)](https://github.com/ratatulieoi?tab=followers)
@@ -11,11 +11,9 @@ im a 12 ounce steak
 
 ---
 
-I build apps and automate stuff I'm too lazy to do manually. Mostly web, some backend, whatever's interesting that week.
+Life is a waterfall we're one in the river and one again after the fall
+swimming through the void, we hear the word we lose ourselves, but we find it all
 
-AI is the thing I keep coming back to, Especially ive been going deep on [OpenClaw](https://github.com/openclaw) lately. Free to run if you know where to look (i know). Open source, surprisingly deep, still wrapping my head around it . It's the kind of project that makes you realize how much you don't know, which is either exciting or terrifying depending on the day.
-
-Open source is where I spend a lot of my time. Mostly the boring contributions — fixing a config that's been wrong for months, untangling a PR nobody picked back up, writing docs that don't lie. 
 
 ## stack
 
