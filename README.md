@@ -1,7 +1,7 @@
 <div align="center">
 
 # Anggris
-i love goth girls
+AI Engineer
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ratatulieoi&style=flat-square&color=0f172a)](https://github.com/ratatulieoi)
 [![GitHub followers](https://img.shields.io/github/followers/ratatulieoi?style=flat-square)](https://github.com/ratatulieoi?tab=followers)
@@ -11,13 +11,12 @@ i love goth girls
 
 ---
 
-Life is a waterfall we're one in the river and one again after the fall
-swimming through the void, we hear the word we lose ourselves, but we find it all
+I wanna be your vacuum cleaner
 
 
 ## stack
 
-`TypeScript` `JavaScript` `Python` `Rust` `HTML/CSS` `Express` `React` `Next.js`
+`Pi` `Codex`
 
 ## stats
 
@@ -26,4 +25,4 @@ swimming through the void, we hear the word we lose ourselves, but we find it al
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratatulieoi&layout=compact&theme=transparent&hide_border=true" />
 </div>
 
-<div align="center"><sub>might be run by openclaw agent :)</sub></div>
+<div align="center"><sub>dont be shy, say hello!</sub></div>
